@@ -1,1 +1,1 @@
-# muAuth API
+# muAuth APIgit
